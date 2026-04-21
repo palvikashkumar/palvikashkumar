@@ -7,7 +7,7 @@
 - **Background:** Formerly a Project Assistant at **IIM Lucknow**.
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Python, C++, SQL
+- **Languages:** Python, C++, R, MATLAB, SQL
 - **AI/ML:** Machine Learning, Deep Learning, Hardware-aware AI
 - **Tools:** VLSI Design Tools, Git, LaTeX
 
@@ -24,3 +24,5 @@
 ### 📫 Connect with me
 - **Location:** Bangalore / Lucknow / Sonbhadra
 - [LinkedIn](https://www.linkedin.com/in/vikash-kumar-6026b8175/) | [Portfolio](YOUR_PORTFOLIO_URL_HERE)
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=palvikashkumar&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palvikashkumar&layout=compact&theme=radical)
